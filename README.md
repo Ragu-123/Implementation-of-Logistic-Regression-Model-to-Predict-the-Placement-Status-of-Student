@@ -70,19 +70,32 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 ## Output:
 
-![image](https://user-images.githubusercontent.com/113915622/234767986-d3b7a43b-d70c-474f-bcdb-f1d70c75c884.png)
-![image](https://user-images.githubusercontent.com/113915622/234768879-73097022-bb73-4e21-8d92-95fe58a05e28.png)
-![image](https://user-images.githubusercontent.com/113915622/234768177-2d5f1fb6-e8a6-49ff-b600-5d3245e31cbe.png)
-![image](https://user-images.githubusercontent.com/113915622/234768192-5c5bba6c-d098-4f60-9fb8-06ac7ea33b3a.png)
-![image](https://user-images.githubusercontent.com/113915622/234768203-9ddf0457-aae1-474e-bd7e-e2ca2826831d.png)
-![image](https://user-images.githubusercontent.com/113915622/234768216-04b5a0bd-d864-460e-9235-407e98cd9bc8.png)
-![image](https://user-images.githubusercontent.com/113915622/234768228-764a025f-3e37-4862-bde4-e96b3206c5d5.png)
-![image](https://user-images.githubusercontent.com/113915622/234768259-dab5c6a5-2f36-4396-886a-d9e285042b06.png)
-![image](https://user-images.githubusercontent.com/113915622/234768278-2015c60c-d6da-44a9-b2d0-680f7d566dcf.png)
-![image](https://user-images.githubusercontent.com/113915622/234768296-11f7584d-3c49-4a9d-8476-8f56999cbdfa.png)
-![image](https://user-images.githubusercontent.com/113915622/234768312-41a8c9b5-e687-41f5-93da-1a22ee2c72eb.png)
-![image](https://user-images.githubusercontent.com/113915622/234768337-09bde42f-ff2a-4788-9af0-6e30b6e47d4e.png)
+## Original data(first five columns):
+![image](https://github.com/Ragu-123/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/113915622/f19c0c75-446d-4df6-b939-13ce9e3bd335)
+## Data after dropping unwanted columns(first five):
+![image](https://github.com/Ragu-123/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/113915622/5668ccb1-a77c-4b5c-be5a-3e8bc453b8e1)
+## Checking the presence of null values:
+![image](https://github.com/Ragu-123/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/113915622/21ea1ae9-f6fd-42df-8804-33337834c56d)
+## Checking the presence of duplicated values:
+![image](https://github.com/Ragu-123/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/113915622/a0b8a963-f5a4-4ddc-a5f2-e60ce5670273)
+## Data after Encoding:
+![image](https://github.com/Ragu-123/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/113915622/3dfbc564-0b7f-4067-ab8b-5a6f2b318d95)
+## X Data:
 
+![image](https://github.com/Ragu-123/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/113915622/d21d8de5-447d-4256-9fd7-8f6195de815e)
+
+## Y Data:
+![image](https://github.com/Ragu-123/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/113915622/3dc319e8-6300-42c8-8134-4a328d091f8f)
+## Predicted Values:
+![image](https://github.com/Ragu-123/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/113915622/db0c0a3e-d621-4e6f-8ab0-e5c508a16759)
+## Accuracy Score:
+![image](https://github.com/Ragu-123/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/113915622/2cc2f259-f1b0-42be-b39a-6a70d37059ca)
+## Confusion Matrix:
+![image](https://github.com/Ragu-123/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/113915622/19ef32b0-c19a-407d-aa98-d3e4b854ad4e)
+## Classification Report:
+![image](https://github.com/Ragu-123/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/113915622/831bad7d-f832-4307-8fa5-db921fa22ad9)
+## Predicting output from Regression Model
+![image](https://github.com/Ragu-123/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/113915622/78841272-159a-4b04-adcb-432fbf01bdf9)
 
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
